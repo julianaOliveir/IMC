@@ -30,6 +30,14 @@ header{
     align-items:flex-end ;
 }
 
+.azul{
+    color: blue;
+}
+
+.vermelho{
+    color: red;
+}
+
 h1{
     color: white;
     font-size: 3rem;
